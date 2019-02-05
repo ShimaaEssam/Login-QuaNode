@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "297814417245",
+    "firebase_url": "https://loginapplication-bf7a6.firebaseio.com",
+    "project_id": "loginapplication-bf7a6",
+    "storage_bucket": "loginapplication-bf7a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297814417245:android:6f90c8ab21ca6cf2",
+        "android_client_info": {
+          "package_name": "betahubs.logintask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297814417245-enln30bhluntvs4jfojlshhv9t8a7k81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgXe8tPZ4nUVDKNwdrddx9Q18iBcRR4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297814417245:android:c69284e02283d1db",
+        "android_client_info": {
+          "package_name": "com.shimaa.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297814417245-mg1rqn2fp659jlqsto83tqd30e6qdovh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shimaa.loginapp",
+            "certificate_hash": "08474cb96439965825b27154fd7be4fd35651edd"
+          }
+        },
+        {
+          "client_id": "297814417245-enln30bhluntvs4jfojlshhv9t8a7k81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgXe8tPZ4nUVDKNwdrddx9Q18iBcRR4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297814417245-enln30bhluntvs4jfojlshhv9t8a7k81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297814417245:android:5a2620529b809c84",
+        "android_client_info": {
+          "package_name": "com.shimaa.uberr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297814417245-hrl8vls1d6t6v229i8suku54qsqp1di4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shimaa.uberr",
+            "certificate_hash": "93e82fce745bad520b5c271c318edbfff981bc09"
+          }
+        },
+        {
+          "client_id": "297814417245-enln30bhluntvs4jfojlshhv9t8a7k81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCgXe8tPZ4nUVDKNwdrddx9Q18iBcRR4Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297814417245-enln30bhluntvs4jfojlshhv9t8a7k81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
